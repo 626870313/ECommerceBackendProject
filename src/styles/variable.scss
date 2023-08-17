@@ -1,0 +1,35 @@
+$base-color:pink;
+
+
+
+$base-menu-width:260px;
+$base-menu-background:rgb(245, 245, 246);
+$base-menu-min-width:50px;
+
+$base-tabber-height:50px;
+
+$base-menu-logo-height:50px;
+
+$base-logo-title-fontsize:20px;
+
+
+.el-scrollbar__view{
+    height: 100%;
+}
+
+.el-menu-side{
+    height: 100%;
+}
+
+.btn_clear {
+    // color: #fff;
+    // background-color: rgb(21, 47, 72);
+    // border-color: rgb(21, 47, 72);
+  }
+  .btn_clear:hover,
+  .btn_clear:focus {
+    background-color: rgba(237, 80, 69,0.2);
+    // border-color: var(--el-button-hover-color);
+    color: rgb(255, 111, 102);
+  }
+  
